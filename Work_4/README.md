@@ -1,0 +1,1 @@
+Verilen cpp dosyasını Java ile çözümleyerek dosyanın içindeki Sınıf yapılarınının bilgisini dışarı verir.

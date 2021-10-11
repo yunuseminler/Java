@@ -1,0 +1,1 @@
+Veritabanı ile kimlik doğrulamalı cihaz tasarımı gerçeklemesi
